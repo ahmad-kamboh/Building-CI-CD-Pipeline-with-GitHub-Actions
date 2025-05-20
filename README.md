@@ -8,8 +8,8 @@
 - Understanding of the YAML file
 - Deploy to GitHub Pages
 
-## 🔗 Repository Link:
-[GitHub Repo] https://github.com/ahmad-kamboh/Building-CI-CD-Pipeline-with-GitHub-Actions.git
+
+![Image](https://github.com/user-attachments/assets/c9e6094e-9f8d-41b9-9e26-79121b826e5c)
 
 ## ✅ Solution Steps:
 
@@ -22,8 +22,12 @@
 6. Go to **Actions** tab → New Workflow → Setup workflow yourself.
 7. Paste the GitHub Actions YAML code and commit.
 
-8. In the project’s `package.json`, update the homepage:
+![Image](https://github.com/user-attachments/assets/2540e3f8-bbb2-4842-927d-323e0441774a)
+
+9. In the project’s `package.json`, update the homepage:
 ```json
+
+
 
 
 
