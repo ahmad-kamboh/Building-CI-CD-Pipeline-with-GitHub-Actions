@@ -24,7 +24,7 @@
 
 8. In the project’s `package.json`, update the homepage:
 ```json
-"homepage": "https://<your-username>.github.io/To-Do"
+
 
 
 📞 Contact Information
